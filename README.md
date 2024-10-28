@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Davison!
 
-<!--
-**davisonqueiroz/davisonqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Ciencia da Computação e apaixonado por programação. Atualmente, estou desenvolvendo um projeto em Java que utiliza diferentes ferramentas e tecnologias, me permitindo aprimorar minhas habilidades e me tornando um profissional cada vez mais capacitado para o mercado de trabalho.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas que Uso
+- **Linguagens**: Java, SQL
+- **Frameworks**: JavaFX, Hibernate
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git, Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projeto em Destaque
+Sistema de gerenciamento completo de uma doceria, incluindo algumas funcionalidades como:
+- 📋 Cadastro e gerenciamento de clientes,fornecedores,itens e produtos
+- 🛒 Controle de pedidos e estoque
+- 📄 Geração de orçamentos em PDF
+- 📊 Relatórios de vendas
+
+O projeto está disponível em: [https://github.com/davisonqueiroz/Projeto_Doceria]
+
+### 📫 Contato
+
+- **LinkedIn**: www.linkedin.com/in/davison-queiroz
+- **Email**: davisonqueiroz@outlook.com.br
