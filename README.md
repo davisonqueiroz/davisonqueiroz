@@ -3,8 +3,8 @@
 🎓 Cursando Ciencia da Computação e apaixonado por programação. Atualmente, estou desenvolvendo um projeto em Java que utiliza diferentes ferramentas e tecnologias, me permitindo aprimorar minhas habilidades e me tornando um profissional cada vez mais capacitado para o mercado de trabalho.
 
 ### 🛠️ Tecnologias e Ferramentas que Uso
-- **Linguagens**: Java, SQL
-- **Frameworks**: JavaFX, Hibernate
+- **Linguagens**: Java, Python, SQL, Ruby
+- **Frameworks**: JavaFX, Hibernate, Rails
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, Maven
 
