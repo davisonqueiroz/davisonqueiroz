@@ -21,12 +21,3 @@ O projeto está disponível em: [https://github.com/davisonqueiroz/Projeto_Docer
 
 - **LinkedIn**: www.linkedin.com/in/davison-queiroz
 - **Email**: davisonqueiroz@outlook.com.br
-
-<!-- Stats gerais -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisonqueiroz&show_icons=true&theme=dark)
-
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisonqueiroz&layout=compact&theme=dark)
-
-<!-- Streak de contribuições -->
-![GitHub Streak](https://streak-stats.demolab.com?user=davisonqueiroz&theme=dark)
