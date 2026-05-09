@@ -1,23 +1,50 @@
-# 👋 Olá! Eu sou o Davison!
+# Davison Vinicius
 
-🎓 Cursando Ciencia da Computação e apaixonado por programação. Atualmente, estou desenvolvendo um projeto em Java que utiliza diferentes ferramentas e tecnologias, me permitindo aprimorar minhas habilidades e me tornando um profissional cada vez mais capacitado para o mercado de trabalho.
+Backend-focused Software Engineer in formation with practical experience in production systems, troubleshooting and observability.
 
-### 🛠️ Tecnologias e Ferramentas que Uso
-- **Linguagens**: Java, Python, SQL, Ruby
-- **Frameworks**: JavaFX, Hibernate, Rails
-- **Banco de Dados**: MySQL
-- **Ferramentas**: Git, Maven
+Main experience with Ruby on Rails, backend development, REST APIs and SQL, working directly with incident investigation, log analysis and production environments.
 
-### 📁 Projeto em Destaque
-Sistema de gerenciamento completo de uma doceria, incluindo algumas funcionalidades como:
-- 📋 Cadastro e gerenciamento de clientes,fornecedores,itens e produtos
-- 🛒 Controle de pedidos e estoque
-- 📄 Geração de orçamentos em PDF
-- 📊 Relatórios de vendas
+## Main Stack
 
-O projeto está disponível em: [https://github.com/davisonqueiroz/Projeto_Doceria]
+- Ruby
+- Ruby on Rails
+- PostgreSQL
+- SQL
+- REST APIs
+- Git
+- Linux / Containers
+- Grafana / Rollbar / Metabase
 
-### 📫 Contato
+## Interests
 
-- **LinkedIn**: www.linkedin.com/in/davison-queiroz
-- **Email**: davisonqueiroz@outlook.com.br
+- Backend Engineering
+- Observability
+- Production Systems
+- Software Architecture
+- Distributed Systems
+
+## Featured Projects
+
+### Monthly Payment Management API
+REST API developed with Ruby on Rails for managing students, enrollments and recurring invoices for educational institutions.
+
+Focused on:
+- Backend architecture
+- Business rules
+- Database modeling
+- REST APIs
+- PostgreSQL
+
+Repository:
+github.com/davisonqueiroz/gerenciador_mensalidades
+
+### Candy Store Management System
+Desktop management system developed with Java, JavaFX, Hibernate and MySQL.
+
+Repository:
+github.com/davisonqueiroz/Projeto_Doceria
+
+## Contact
+
+- LinkedIn: linkedin.com/in/davison-queiroz
+- Email: davisonvinicius@outlook.com.br
